@@ -5,6 +5,5 @@
         <item name="colorPrimary">#C6FF00</item>
         <!-- Background color of buttons in the app -->
         <item name="colorButtonNormal">#C6FF00</item>
-        <item name="android:colorBackground">#CFD8DC</item>
     </style>
 </resources>

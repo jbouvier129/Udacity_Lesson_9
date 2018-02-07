@@ -75,7 +75,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:scaleType="centerInside"
-                android:src="@drawable/awayTeam"/>
+                android:src="@drawable/awayteam"/>
 
         </LinearLayout>
 
@@ -148,7 +148,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:scaleType="centerInside"
-            android:src="@drawable/homeTeam"/>
+            android:src="@drawable/hometeam"/>
 
     </LinearLayout>
 
